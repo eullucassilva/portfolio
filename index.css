@@ -1,0 +1,103 @@
+body{
+    color:#ffffff;
+    background-color: #141726;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a { padding-inline: 50px;
+    color: #f9fafa;
+    text-decoration: none;
+}
+
+img {
+    position: relative;top: 25px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #141726;
+}
+.center {
+    text-align: center;
+
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    color:#34BF98; 
+    position: relative;top: -50px;left: 580px;
+}
+
+h2 {
+    color:#fcfcfc;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+        position:relative;
+        left: 490px;
+        top: -65px;
+    
+}
+
+h3 {position: relative;top: 20px;left: 00px;
+    padding:10px;
+    color:#34BF98;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+
+h4 {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: relative;
+    left: 00px;
+    top: -30px;
+}
+h5{color: #34BF98;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    position: relative;
+    left: 00px;
+    top: -30px;}
+p {
+    color: rgb(247, 244, 244);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color:#267365;border-radius: 30px;
+    height: 50px;
+
+}
+.sobre{
+    font-size: 20px;
+    border: px dashed #267365;
+    position: relative;left:00px;top:-50px;
+    padding: -20px;
+    width: -05px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #4E2559;
+    text-align: center;
+}
+.Cursando{
+    border: px dashed #267365;
+    position: relative;top: -00px;left: 400px;
+    padding: 90px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #4E2559;
+    text-align: center;}
+div{
+    position: relative;top: -65px;
+}
+footer{
+    position: relative;left: 500px;
+}
